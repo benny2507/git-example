@@ -11,4 +11,6 @@ foreach($array as &$tmp){
 print_r($array);
 
 echo 'abc';
+
+// add the comment
 ?>
